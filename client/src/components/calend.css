@@ -1,0 +1,17 @@
+.highlight {
+    background-color: #f0a500;
+    color: black;
+    border-color: white;
+}
+
+.event {
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #ddd;
+    background-color: #f0f0f0;
+}
+
+.react-calendar__tile--disabled {
+    background-color: #f0f0f0;
+    /* Disabled tiles look gray */
+}
